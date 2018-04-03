@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name robosub_footprints)(type KiCad)(uri "C:/Users/Thong_Huynh/Desktop/EE 416/pcbs-master/pcbs-master/lib/robosub_footprints.pretty")(options "")(descr ""))
+  (lib (name ATMEGA1284P-AU)(type Legacy)(uri "C:/Users/Thong_Huynh/Desktop/EE 416/ATMEGA1284P-AU(1)/ATMEGA1284P-AU.mod")(options "")(descr ""))
+  (lib (name Name)(type KiCad)(uri "$(KIPRJMOD)/Name.pretty")(options "")(descr ""))
+)
