@@ -1,0 +1,23 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey
+1,LED generic,LED,D1 D2,LED,LED_0805_HandSoldering,4,,L62501CT-ND; 1516-1085-1-ND
+2,,Probe_Port,P1 P2,Probe_Port,JST_GH_SM02B-GHS-TB_02x1.25mm_Angled,6,,455-1564-1-ND
+3,"-40V Vce, -0.2A Ic, PNP, Small Signal Transistor, TO-92",2N3906,Q1,2N3906,TO-92_Molded_Narrow,2,https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf,2N3906CS-ND
+4,Resistor,R,R1 R4,1K,R_0805_HandSoldering,10,,P1.0KDACT-ND
+5,Resistor,R,R2 R5,220,R_0805_HandSoldering,10,,408-1779-1-ND
+6,Resistor,R,R3,27K,R_0805_HandSoldering,10,,P27KDACT-ND
+7,,Arduino_Nano_Socket,U1,Arduino_Nano_Socket,Arduino_Nano_Socket,2,,S7013-ND 
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Component Groups:,7,,,,,,,
+Component Count:,11,,,,,,,
+Fitted Components:,11,,,,,,,
+Number of PCBs:,1,,,,,,,
+Total components:,11,,,,,,,
+Schematic Version:,0,,,,,,,
+Schematic Date:,3/25/2018,,,,,,,
+BoM Date:,4/4/2018 23:13,,,,,,,
+Schematic Source:,C:\Users\Thong_Huynh\Desktop\EE 416_new\Arduino_Nano_Shield\Arduino_Nano_Shield.sch,,,,,,,
+KiCad Version:,Eeschema 4.0.7,,,,,,,
