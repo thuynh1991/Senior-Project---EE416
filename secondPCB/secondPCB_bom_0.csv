@@ -1,0 +1,40 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey
+1,Diode,D,1N4148,D1,D_MELF-RM10_Universal_Handsoldering,1,,1N4148FS-ND
+2,Unpolarized capacitor,C,C1 C2 C4,100nF,C_0603_HandSoldering,10,,445-5201-1-ND
+3,Unpolarized capacitor,C,C3,10uF,C_0603_HandSoldering,10,,490-12317-1-ND
+4,Unpolarized capacitor,C,C5 C6,22pF,C_0603_HandSoldering,10,,399-9030-1-ND
+5,LED generic,LED,D3,LED,LED_0805_HandSoldering,1,,
+6,"LED, small symbol",LED_Small,D1 D2,LED_Small,LED_0603_HandSoldering,10,,160-1448-1-ND 
+7,,AVR_ISP,J1,AVR_ISP,Pin_Header_Straight_2x03_Pitch1.27mm,5,,S9015E-03-ND
+8,"Generic connector, single row, 01x02",Conn_01x02,J8,Conn_01x02,Pin_Header_Straight_1x02_Pitch2.00mm,2,,S5800-02-ND
+9,,FTDI-RESCUE-secondPCB,J2,FTDI,Socket_Strip_Straight_1x06_Pitch2.54mm,10,,S7039-ND
+10,,PortA,J3,PortA,Pin_Header_Straight_1x08_Pitch2.00mm,4,,S5751-08-ND
+11,,PortB,J4,PortB,Pin_Header_Straight_1x08_Pitch2.00mm,4,,S5751-08-ND
+12,,PortC,J5,PortC,Pin_Header_Straight_1x08_Pitch2.00mm,1,,S5751-08-ND
+13,,PortD,J6,PortD,Pin_Header_Straight_1x08_Pitch2.00mm,1,,S5751-08-ND
+14,Inductor,L,L1,10uH,L_0603_HandSoldering,10,,587-1714-1-ND
+15,,Probe_Port,P1 P2,Probe_Port,JST_GH_SM02B-GHS-TB_02x1.25mm_Angled,4,,455-1564-1-ND
+16,"-40V Vce, -0.2A Ic, PNP, Small Signal Transistor, TO-92",2N3906,Q1,2N3906,TO-92_Molded_Narrow,2,https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf,2N3906CS-ND
+17,Resistor,R,R3,10K,R_0603_HandSoldering,10,,P20397CT-ND
+18,Resistor,R,R4 R7,1k,R_0603_HandSoldering,10,,RHM1.0KDCT-ND
+19,Resistor,R,R2 R5,220,R_0603_HandSoldering,10,,RHM220DCT-ND
+20,Resistor,R,R6,27k,R_0603_HandSoldering,10,,RHM27.0KADCT-ND
+21,Resistor,R,R1,330R,R_0603_HandSoldering,10,,RHM330DCT-ND
+22,"Push button switch, generic, two pins",SW_Push,S1,SW_Push,SW_SPST_PTS645,10,,CKN9088CT-ND
+23,,ATMEGA1284P-AU-RESCUE-secondPCB,U1,ATMEGA1284P-AU,QFP80P1200X1200X120-44N,2,,ATMEGA1284P-AU-ND
+24,Two pin crystal,Crystal,Y1,16MHz,Crystal_HC49-4H_Vertical,10,,XC1748-ND
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Component Groups:,24,,,,,,,
+Component Count:,31,,,,,,,
+Fitted Components:,31,,,,,,,
+Number of PCBs:,1,,,,,,,
+Total components:,31,,,,,,,
+Schematic Version:,0,,,,,,,
+Schematic Date:,3/25/2018,,,,,,,
+BoM Date:,4/7/2018 1:56,,,,,,,
+Schematic Source:,C:\Users\Thong_Huynh\Desktop\secondPCB\secondPCB.sch,,,,,,,
+KiCad Version:,Eeschema 4.0.7,,,,,,,
